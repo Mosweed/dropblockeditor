@@ -45,8 +45,8 @@ return [
 Example::class,
 ],
 'parsers' => [
-Shazzoo\DropBlockEditor\Parsers\Html::class,
-Shazzoo\DropBlockEditor\Parsers\Editor::class,
+Mo_sweed\DropBlockEditor\Parsers\Html::class,
+Mo_sweed\DropBlockEditor\Parsers\Editor::class,
 ],
 
 

@@ -230,7 +230,7 @@ class DropBlockEditor extends Component
 
 
 
-    public $shazzoo_components = [];
+    public $mo_components = [];
 
 
 
@@ -357,7 +357,7 @@ class DropBlockEditor extends Component
 
         $this->blocks =    $this->registerComponentsFromDirectory(
             Block::class,
-            $this->shazzoo_components,
+            $this->mo_components,
             app_path('Classes\Blocks'),
             'App\Classes\Blocks',
         );
