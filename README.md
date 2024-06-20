@@ -19,13 +19,13 @@ To use this package, you'll need:
 You can install the package via composer:
 
 ```shell script
-composer require shazzoo/dropblockeditor
+composer require mo_sweed/dropblockeditor
 ```
 
 You can publish all files with:
 
 ```shell script
-php artisan vendor:publish --provider="Shazzoo\DropBlockEditor\DropBlockEditorServiceProvider" –-force
+php artisan vendor:publish --provider="Mo_sweed\DropBlockEditor\DropBlockEditorServiceProvider" –-force
 ```
 
 Once all files are published, open `routes/web.php`, and add this code at the end of the page:
@@ -81,8 +81,7 @@ php artisan dropblockeditor:make Text
 
 ## Credits
 
-- [Mohmad Yazan Sweed](https://github.com/ps200735)
-- Hamzah Sari
+- [Mohmad Yazan Sweed](https://github.com/Mosweed)
 
 ## License
 
