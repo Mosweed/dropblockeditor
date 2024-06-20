@@ -6,7 +6,7 @@ use App\Classes\Block ;
 use App\Models\pages;
 use Illuminate\Support\Str;
 use Livewire\Component;
-use Shazzoo\DropBlockEditor\Parsers\Parse;
+use Mo_sweed\DropBlockEditor\Parsers\Parse;
 use Illuminate\Filesystem\Filesystem;
 use SplFileInfo;
 use ReflectionClass;

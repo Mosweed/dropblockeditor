@@ -1,6 +1,6 @@
 <?php
 
-namespace Shazzoo\DropBlockEditor\Parsers;
+namespace Mo_sweed\DropBlockEditor\Parsers;
 use Illuminate\Support\Facades\Blade;
 
 abstract class Parser

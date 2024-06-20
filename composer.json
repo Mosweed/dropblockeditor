@@ -1,5 +1,5 @@
 {
-    "name": "shazzoo/dropblockeditor",
+    "name": "mo_sweed/dropblockeditor",
     "description": "A nice block based editor made with Laravel Livewire.",
     "license": "MIT",
 
@@ -33,7 +33,7 @@
 
         "autoload": {
             "psr-4": {
-                "Shazzoo\\DropBlockEditor\\": "src"
+                "Mo_sweed\\DropBlockEditor\\": "src"
             }
         },
 
@@ -59,7 +59,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Shazzoo\\DropBlockEditor\\DropBlockEditorServiceProvider"
+                "Mo_sweed\\DropBlockEditor\\DropBlockEditorServiceProvider"
             ]
         }
     },

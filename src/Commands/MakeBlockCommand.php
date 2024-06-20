@@ -1,6 +1,6 @@
 <?php
 
-namespace Shazzoo\DropBlockEditor\Commands;
+namespace Mo_sweed\DropBlockEditor\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Shazzoo\DropBlockEditor;
+namespace Mo_sweed\DropBlockEditor;
 
 use App\Livewire\DropBlockEditor\Buttons\SaveButten;
 use App\Livewire\DropBlockEditor\Components\Example;
@@ -8,7 +8,7 @@ use App\Livewire\DropBlockEditor\DropBlockEditor;
 use App\Livewire\DropBlockEditor\PageEiditor;
 use Illuminate\Support\Facades\View;
 use Livewire\Livewire;
-use Shazzoo\DropBlockEditor\Commands\MakeBlockCommand;
+use Mo_sweed\DropBlockEditor\Commands\MakeBlockCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 use Illuminate\Support\Facades\Route;
